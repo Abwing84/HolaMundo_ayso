@@ -2,7 +2,7 @@
 
 Mi primer repositorio en GitHub
 
-Me gusta la :music: el :wine: y el :rugby:
+Me gusta la :music:, :wine:, :rugby:!
 
 Como asi me encanta el asado.
 
